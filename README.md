@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[PCSX2](journal/)
+[The Quest for Maximal Nostalgia](journal/)
